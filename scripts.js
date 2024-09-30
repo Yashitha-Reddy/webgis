@@ -367,12 +367,12 @@ document.querySelectorAll('.dropbtn').forEach(button => {
 });
 
 // Load all layers
-loadGeoJSONFiles('cadastrial');
-loadGeoJSONFiles('electricity');
-loadGeoJSONFiles('lulc');
-loadGeoJSONFiles('transportation');
-loadGeoJSONFiles('water');
-loadGeoJSONFiles('buildup');
+loadGeoJSONFiles('Cadastrial');
+loadGeoJSONFiles('Electricity');
+loadGeoJSONFiles('Lulc');
+loadGeoJSONFiles('Transportation');
+loadGeoJSONFiles('Water');
+loadGeoJSONFiles('Buildup');
 
 
 
